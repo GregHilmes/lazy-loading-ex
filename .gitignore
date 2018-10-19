@@ -1,0 +1,6 @@
+# Python ignores
+.venv/*
+__pycache__/*
+
+# VS Code files
+.vscode/*
